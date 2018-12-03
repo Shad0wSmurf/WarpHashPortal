@@ -144,5 +144,6 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 ACCOUNT_ADAPTER = 'allauth_2fa.adapter.OTPAdapter'
 
+# site id
 SITE_ID = 1
 
